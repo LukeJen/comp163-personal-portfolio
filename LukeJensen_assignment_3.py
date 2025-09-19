@@ -1,4 +1,4 @@
-student = {"Full name": "Jordan Smith","Student email": "jsmith@ncat.edu", "Hometown": "Charlotte, NC","Graduation semester": "Spring 2028", "Major": "Computer Science"}
+student = {"Full name": "Luke Jensen","Student email": "lwjensen@ncat.edu", "Hometown": "Renton, WA","Graduation semester": "Spring 2029", "Major": "Computer Graphics UI/UX"}
 
 #Lists
 current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
