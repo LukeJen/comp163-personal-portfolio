@@ -1,3 +1,4 @@
+
 student = {"Full name": "Luke Jensen","Student email": "lwjensen@ncat.edu", "Hometown": "Renton, WA","Graduation semester": "Spring 2029", "Major": "Computer Graphics UI/UX"}
 
 #Lists
