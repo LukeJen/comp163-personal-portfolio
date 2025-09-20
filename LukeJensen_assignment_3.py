@@ -27,7 +27,7 @@ current_courses_professors_dict = {"COMP 163": "Prof. Rhodes", "MATH 150": "Dr. 
 course_rooms = {"COMP 163": "M-Eric 300", "MATH 150": "Marteena 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
 monthly_budget_dict = {"Food": 100, "Entertainment": 200, "Books": 75, "Transportation": 50}
 study_hours_per_subj_dict = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
-contact_directory_dict = {"Mom": "928-910-6066", "Roommate": "336-555-7821", "Academic Advisor": "336-285-4238"}
+contact_directory_dict = {"Mom": "928-910-6066", "Roommate": "984-222-9797", "Academic Advisor": "336-285-4238"}
 
 #Calulations
 total_credits = sum(credit_hours)
