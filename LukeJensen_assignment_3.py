@@ -2,10 +2,10 @@
 student = {"Full name": "Luke Jensen","Student email": "lwjensen@ncat.edu", "Hometown": "Renton, WA","Graduation semester": "Spring 2029", "Major": "Computer Graphics UI/UX"}
 
 #Lists
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
-credit_hours = [3,3, 3,3]
-gpa_history = [3.2, 3.6, 3.4,3.7]
+current_courses = ["COMP 163", "MATH 110", "CGT 101", "ENGL 100","CGT 121"]
+completed_courses = ["Biology", "Chemistry", "Math 1", "French II", "Ap US History"]
+credit_hours = [3,3, 3,3,3]
+gpa_history = [3.4, 3.8, 3.8,4.0]
 
 #Tuples
 emergency_contacts = ("Mom", "Hannah Smith", "704-555-0199")
