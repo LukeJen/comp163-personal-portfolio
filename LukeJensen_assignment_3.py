@@ -15,10 +15,10 @@ twitter_info = ("Twitter", "@jordandev", "127")
 birthday = ("Birthday", "5", "22", "2006")
 
 #Sets
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interest = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
+current_skills = {"C++", "HTML", "Problem solving", "Time management", "Photoshop"}
+skills_to_learn = {"C#", "Data structures", "Git", "Advanced Python", "Public speaking"}
+career_interest = {"Software development", "Web development", "Cyber-Security", "Game development"}
+hobbies = {"Gaming", "Photography", "Reading", "Music"}
 entertainment_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
 
 #dictionary
